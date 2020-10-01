@@ -1,3 +1,6 @@
+Small RDF python scraper for gumtree ads (include geocoding)
+
+
 ./SingleScrape.py <gumtreeurl> <outputfile>
 eg. 
 ./SingleScrape.py http://www.gumtree.com/london/93/21153193.html test.rdf
